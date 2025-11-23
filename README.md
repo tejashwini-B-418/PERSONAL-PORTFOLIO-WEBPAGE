@@ -73,4 +73,10 @@ Overall, this project plays a major role in demonstrating creativity, communicat
 
 ## OUTPUT:
 
+<img width="1919" height="1053" alt="Image" src="https://github.com/user-attachments/assets/1713e3e8-dd85-499e-bb86-7a3ed5d0f398" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f8767072-2139-491d-807b-ce890f6b9a8a" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/b08a50a7-fa23-4a31-bf3b-4fb53a6a9fb2" />
+
  
